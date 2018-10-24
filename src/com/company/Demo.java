@@ -7,5 +7,6 @@ public class Demo {
         System.out.println(i/(j+1));
         System.out.println("hello world");
         System.out.println("Demo.main");
+        System.out.println(1223);
     }
 }
